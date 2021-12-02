@@ -9,8 +9,8 @@ Customized music player using Spotify's public API, React, Node/Express. (A bett
 * Users must have Spotify premium for full functionality (because of Spotify's API auth)
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/XKUE9qV.png
-)
+![App Screenshot](https://i.imgur.com/XKUE9qV.png)
+![App Screenshot](https://i.imgur.com/g6Ifb66.png)
 
 
 ## Referenced API's
