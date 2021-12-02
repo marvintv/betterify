@@ -8,11 +8,11 @@ Customized music player using Spotify's public API, React, Node/Express. (A bett
 * Users can search through song
 * Users must have Spotify premium for full functionality (because of Spotify's API auth)
 ## Screenshots
-
+<p align="center"> 
 <img src="https://i.imgur.com/g6Ifb66.png" height="500px"></img>
 &nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/vlMi7dR.png" height="500px"></img>
-
+</p>
 
 ## Referenced API's
 * [Spotify's public API](https://developer.spotify.com/documentation/web-api/)
