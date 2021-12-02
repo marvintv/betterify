@@ -10,7 +10,7 @@ Customized music player using Spotify's public API, React, Node/Express. (A bett
 ## Screenshots
 
 <img src="https://i.imgur.com/g6Ifb66.png" height="500px"></img>
-<img src="https://i.imgur.com/XKUE9qV.png" height="500px"></img>
+<img src="https://i.imgur.com/vlMi7dR.png" height="500px"></img>
 
 
 ## Referenced API's
