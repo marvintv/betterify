@@ -3,6 +3,7 @@
 
 Customized music player using Spotify's public API, React, Node/Express. (A better Spotify experience)
 
+## Deployment link: https://client-betterify.herokuapp.com/
 ## Key Features:
 * Users are able to view Lyrics on the screen when playing a song.
 * Users can search through song
