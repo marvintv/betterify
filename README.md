@@ -21,9 +21,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+    <h3 align="center">Betterify Music Player</h3>
+
     <img src="https://i.imgur.com/XKUE9qV.png" alt="Logo" height="550">
-  </a>
+  
 
   <h3 align="center">Best-README-Template</h3>
 
