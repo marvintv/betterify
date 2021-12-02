@@ -1,5 +1,5 @@
 
-# Betterfy Music Player
+# 🎵 Betterfy Music Player 🎶
 
 Customized music player using Spotify's public API, React, Node/Express. (A better Spotify experience)
 
